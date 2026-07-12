@@ -4,10 +4,10 @@
 
 <br/><br/>
 
-<a href="https://arcflow-coral.vercel.app"><img src="https://img.shields.io/badge/PORTFOLIO-0B0F1A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/pierre-emmanuel"><img src="https://img.shields.io/badge/LINKEDIN-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:pierre@afryx.com"><img src="https://img.shields.io/badge/EMAIL-0B0F1A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>&nbsp;
-<a href="https://huggingface.co/theyoungceo"><img src="https://img.shields.io/badge/HUGGING_FACE-0B0F1A?style=for-the-badge&logo=huggingface&logoColor=22D3EE" alt="Hugging Face"/></a>
+<a href="https://www.arcflowhq.com"><img src="https://img.shields.io/badge/PORTFOLIO-0B0F1A?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio"/></a>&nbsp;
+<a href="https://https://www.linkedin.com/in/pierreemmanuelgerard/"><img src="https://img.shields.io/badge/LINKEDIN-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn"/></a>&nbsp;
+<a href="mailto:ankouanepierre@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B0F1A?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email"/></a>&nbsp;
+
 
 <img src="https://komarev.com/ghpvc/?username=ByEmG&style=flat-square&color=6366F1&label=VISITORS" alt="visitors"/>
 
@@ -111,7 +111,7 @@
 - **12-node LangGraph pipeline** with deterministic routing and streaming responses
 - **Multi-tenant SaaS** — tenant isolation at the database layer, Stripe billing, deployed on Vercel
 - **Focused wedge** — pitch narrowed to action tracking & accountability after YC feedback
-- **Live now** — [arcflow-coral.vercel.app](https://arcflow-coral.vercel.app)
+- **Live now** — (www.arcflowhq.com)
 
 </samp>
 
