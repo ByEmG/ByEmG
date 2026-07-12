@@ -1,0 +1,16 @@
+<svg width="1000" height="110" viewBox="0 0 1000 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#6366F1" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#6366F1"/>
+      <stop offset="0.7" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#4ADE80" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="110" fill="none"/>
+  <rect y="0" width="1000" height="2" fill="url(#line)"/>
+  <text x="500" y="52" text-anchor="middle" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="15">
+    <tspan fill="#4ADE80">$</tspan><tspan fill="#E2E8F0" dx="8">exit</tspan>
+  </text>
+  <text x="500" y="82" text-anchor="middle" font-family="'SF Mono','Fira Code',Consolas,monospace" font-size="12" fill="#475569">session closed — build systems that outlast the sprint · pierre@afryx</text>
+</svg>
