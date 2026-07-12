@@ -17,7 +17,7 @@
 
 ## <samp>$ whoami</samp>
 
-<samp>Founder & CTO at <a href="https://github.com/Kampus-africa">Afryx</a> — I design, build and ship AI-native products end-to-end: multi-tenant backends, agent orchestration graphs, and cross-platform clients that real users depend on. Currently reading Applied AI at the University of Bradford while running an 8-person team across two continents.</samp>
+<samp>Founder & CTO at <a href="https://github.com/Kampus-africa">Afryx</a> — I design, build and ship AI-native products end-to-end: multi-tenant backends, agent orchestration graphs, and cross-platform clients that real users depend on. Currently reading Applied AI at the University of Bradford while running an 10+ person team across two continents.</samp>
 
 <br/>
 
@@ -75,7 +75,7 @@
 | <samp>module</samp> | <samp>status</samp> | <samp>what it does</samp> | <samp>core stack</samp> |
 |:---|:---:|:---|:---|
 | <samp><b><a href="https://github.com/Kampus-africa/Kampus">kampus/</a></b></samp> | <img src="https://img.shields.io/badge/●_PILOT-22D3EE?style=flat-square&labelColor=0B0F1A&color=0B0F1A&logoColor=22D3EE" alt="pilot"/> | <samp>Run your entire school in one place — full school OS for Africa</samp> | <samp>Next.js 16 · Supabase · Expo · Tauri · LangGraph</samp> |
-| <samp><b><a href="https://arcflow-coral.vercel.app">arcflow/</a></b></samp> | <img src="https://img.shields.io/badge/●_LIVE-4ADE80?style=flat-square&labelColor=0B0F1A&color=0B0F1A" alt="live"/> | <samp>AI Chief of Staff — accountability engine for SMBs, in production</samp> | <samp>LangGraph ×12 · Claude · Stripe · Vercel</samp> |
+| <samp><b><a href="https://www.arcflowhq.com">arcflow/</a></b></samp> | <img src="https://img.shields.io/badge/●_LIVE-4ADE80?style=flat-square&labelColor=0B0F1A&color=0B0F1A" alt="live"/> | <samp>AI Chief of Staff — accountability engine for SMBs, in production</samp> | <samp>LangGraph ×12 · Claude · Stripe · Vercel</samp> |
 | <samp><b>jobby-ai/</b></samp> | <img src="https://img.shields.io/badge/●_AUTONOMOUS-6366F1?style=flat-square&labelColor=0B0F1A&color=0B0F1A" alt="autonomous"/> | <samp>Fully autonomous job application pipeline — zero human clicks</samp> | <samp>Playwright · Anthropic SDK · Notion · Telegram</samp> |
 | <samp><b><a href="https://github.com/ByEmG/pierre-agent-evals">agent-evals/</a></b></samp> | <img src="https://img.shields.io/badge/●_PUBLIC-4ADE80?style=flat-square&labelColor=0B0F1A&color=0B0F1A" alt="public"/> | <samp>Open eval suite for LLM agent reliability & tool-use correctness</samp> | <samp>Python · Anthropic SDK</samp> |
 | <samp><b>apex/</b></samp> | <img src="https://img.shields.io/badge/●_R&D-6366F1?style=flat-square&labelColor=0B0F1A&color=0B0F1A" alt="R&D"/> | <samp>7 Claude agent "brains" for athletic performance, on mobile</samp> | <samp>Expo · Supabase (25 tables) · Claude API</samp> |
@@ -111,7 +111,7 @@
 - **12-node LangGraph pipeline** with deterministic routing and streaming responses
 - **Multi-tenant SaaS** — tenant isolation at the database layer, Stripe billing, deployed on Vercel
 - **Focused wedge** — pitch narrowed to action tracking & accountability after YC feedback
-- **Live now** — (www.arcflowhq.com)
+- **Live now** — www.arcflowhq.com
 
 </samp>
 
@@ -149,9 +149,9 @@ open_to:    AI engineering & agent infrastructure roles · founding engineer · 
 
 <div align="center">
 <br/>
-<a href="mailto:pierre@afryx.com"><img src="https://img.shields.io/badge/pierre@afryx.com-0B0F1A?style=for-the-badge&logo=gmail&logoColor=4ADE80" alt="Email"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/pierre-emmanuel"><img src="https://img.shields.io/badge//in/pierre--emmanuel-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=4ADE80" alt="LinkedIn"/></a>&nbsp;
-<a href="https://arcflow-coral.vercel.app"><img src="https://img.shields.io/badge/see_it_live-0B0F1A?style=for-the-badge&logo=vercel&logoColor=4ADE80" alt="Portfolio"/></a>
+<a href="mailto:ankouanepierre@gmail.com"><img src="https://img.shields.io/badge/pierre@afryx.com-0B0F1A?style=for-the-badge&logo=gmail&logoColor=4ADE80" alt="Email"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/pierreemmanuelgerard"><img src="https://img.shields.io/badge//in/pierre--emmanuel-0B0F1A?style=for-the-badge&logo=linkedin&logoColor=4ADE80" alt="LinkedIn"/></a>&nbsp;
+<a href="https://www.arcflowhq.com"><img src="https://img.shields.io/badge/see_it_live-0B0F1A?style=for-the-badge&logo=vercel&logoColor=4ADE80" alt="Portfolio"/></a>
 </div>
 
 <br/>
