@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="90" viewBox="0 0 860 90">
+<style>.f{font:12px 'Courier New',monospace;fill:#6f6d68} .a{fill:#f5c518}
+@keyframes blink{50%{opacity:0}} .c{animation:blink 1s steps(1) infinite;fill:#f5c518}</style>
+<rect width="860" height="90" fill="#070707"/>
+<line x1="28" x2="832" y1="24" y2="24" stroke="#333230"/>
+<text class="f" x="28" y="58">$ exit <tspan fill="#333230">—</tspan> session closed <tspan fill="#333230">·</tspan> <tspan class="a">fewer things, done properly</tspan></text>
+<rect class="c" x="380" y="47" width="7" height="12"/>
+<text class="f" x="832" y="58" text-anchor="end">LDN · building since 2023</text>
+</svg>

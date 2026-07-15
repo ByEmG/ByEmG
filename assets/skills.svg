@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="292" viewBox="0 0 760 292">
+<style>
+ .lbl{font:13px 'Courier New',monospace;fill:#e8e6e1}
+ .pct{font:12px 'Courier New',monospace;fill:#6f6d68}
+ .hd{font:11px 'Courier New',monospace;fill:#8a7010;letter-spacing:2px}
+</style>
+<rect width="760" height="292" fill="#070707"/>
+<text class="hd" x="24" y="20">$ skills --graph</text>
+<text class="lbl" x="24" y="47">ai engineering</text>
+<rect x="200" y="34" width="460" height="16" fill="none" stroke="#333230"/>
+<rect x="200" y="34" height="16" fill="#f5c518" opacity="0.9" width="0">
+  <animate attributeName="width" from="0" to="423" dur="1.2s" begin="0.0s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1" values="0;423"/>
+</rect>
+<text class="pct" x="680" y="47">92%</text>
+<text class="lbl" x="24" y="89">product</text>
+<rect x="200" y="76" width="460" height="16" fill="none" stroke="#333230"/>
+<rect x="200" y="76" height="16" fill="#f5c518" opacity="0.9" width="0">
+  <animate attributeName="width" from="0" to="413" dur="1.2s" begin="0.15s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1" values="0;413"/>
+</rect>
+<text class="pct" x="680" y="89">90%</text>
+<text class="lbl" x="24" y="131">full-stack</text>
+<rect x="200" y="118" width="460" height="16" fill="none" stroke="#333230"/>
+<rect x="200" y="118" height="16" fill="#f5c518" opacity="0.9" width="0">
+  <animate attributeName="width" from="0" to="390" dur="1.2s" begin="0.3s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1" values="0;390"/>
+</rect>
+<text class="pct" x="680" y="131">85%</text>
+<text class="lbl" x="24" y="173">agents / llms</text>
+<rect x="200" y="160" width="460" height="16" fill="none" stroke="#333230"/>
+<rect x="200" y="160" height="16" fill="#f5c518" opacity="0.9" width="0">
+  <animate attributeName="width" from="0" to="404" dur="1.2s" begin="0.44999999999999996s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1" values="0;404"/>
+</rect>
+<text class="pct" x="680" y="173">88%</text>
+<text class="lbl" x="24" y="215">mobile</text>
+<rect x="200" y="202" width="460" height="16" fill="none" stroke="#333230"/>
+<rect x="200" y="202" height="16" fill="#f5c518" opacity="0.9" width="0">
+  <animate attributeName="width" from="0" to="345" dur="1.2s" begin="0.6s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1" values="0;345"/>
+</rect>
+<text class="pct" x="680" y="215">75%</text>
+<text class="lbl" x="24" y="257">leadership</text>
+<rect x="200" y="244" width="460" height="16" fill="none" stroke="#333230"/>
+<rect x="200" y="244" height="16" fill="#f5c518" opacity="0.9" width="0">
+  <animate attributeName="width" from="0" to="377" dur="1.2s" begin="0.75s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1" keyTimes="0;1" values="0;377"/>
+</rect>
+<text class="pct" x="680" y="257">82%</text>
+
+</svg>
