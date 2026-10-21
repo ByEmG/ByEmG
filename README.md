@@ -1,44 +1,43 @@
-<div align="center">
-
-<img src="assets/hero.svg" width="100%" alt="Pierre Emmanuel Gérard. Applied AI Engineer, Founder and CTO of Afryx Labs. I turn models into products people rely on."/>
-
-</div>
+<img src="assets/header.svg" width="100%" alt="Pierre Emmanuel Gérard. Applied AI engineer in Leeds. Founder and CTO of Afryx Labs, studying BSc Applied AI at Bradford, open to applied AI roles in the UK."/>
 
 <br/>
 
-I work at the **applied layer of AI**: agent orchestration, tool use, memory and evaluation, the parts that turn a model into a product. Founder & CTO of **[Afryx Labs](https://www.afryxlabs.com)**. Final-year BSc Applied AI at the University of Bradford.
+I'm Pierre, an applied AI engineer and the founder & CTO of [Afryx Labs](https://www.afryxlabs.com). Most of my work sits where models meet real users: agent workflows, evaluation, and the product around them. I'm in my final year of a BSc in Applied AI at the University of Bradford.
 
 <br/>
 
-<img src="assets/sections/work.svg" width="100%" alt="01 Building"/>
+### What I'm working on
 
-<p align="center"><a href="https://www.kampusafryx.com"><img src="assets/cards/kampus.svg" width="49%" alt="Kampus: institution management platform, in production"/></a>&nbsp;<img src="assets/cards/sitedue.svg" width="49%" alt="SiteDue: billing-completion app for UK electrical maintenance SMEs, in build"/></p>
+**[Kampus](https://www.kampusafryx.com)**<br/>
+A school management platform covering admissions, academics, finance and communication, with an AI operations layer. Live with fee-paying schools. Co-developed by Afryx Labs.<br/>
+<sub>Next.js · Supabase · Expo · LangGraph</sub>
 
-<p align="center"><a href="https://menoclinic.uk"><img src="assets/cards/menoclinic.svg" width="49%" alt="MenoClinic: clinician-led AI triage prototype"/></a>&nbsp;<a href="https://github.com/ByEmG/pierre-agent-evals"><img src="assets/cards/evals.svg" width="49%" alt="pierre-agent-evals: evaluation harness for LLM agents"/></a></p>
+**SiteDue**<br/>
+A billing-completion web app for UK commercial electrical maintenance businesses, so finished jobs actually get invoiced. I lead product and architecture for a five-person team.<br/>
+<sub>React · Vite · Supabase</sub>
+
+**[MenoClinic](https://menoclinic.uk)**<br/>
+A clinician-led AI triage prototype for a UK menopause clinic. It turns pre-consultation questionnaires into structured summaries and highlights red flags and missing information. The clinician makes every decision, and the system is tested on synthetic cases the clinician has approved.<br/>
+<sub>Human-in-the-loop · Evaluation · Synthetic data</sub>
+
+**[pierre-agent-evals](https://github.com/ByEmG/pierre-agent-evals)**<br/>
+An evaluation harness for LLM agents. It sorts every failure into one of six categories and reports pass rate, cost and latency, so I can tell whether a change actually helped.<br/>
+<sub>Python · Anthropic API · pytest</sub>
 
 <br/>
 
-<img src="assets/sections/stack.svg" width="100%" alt="02 Stack"/>
+### Tools I reach for
 
-<img src="assets/stack.svg" width="100%" alt="Claude API, LangGraph, agent evaluation, Python, TypeScript, SQL, Next.js, React, React Native, Expo, Supabase, Postgres, Stripe, Vercel, Playwright, scikit-learn, XGBoost"/>
+Python, TypeScript and SQL. The Claude API and LangGraph for agents. Next.js, React and React Native for product. Supabase, Postgres, Stripe and Vercel underneath.
 
 <br/>
 
-<img src="assets/sections/contact.svg" width="100%" alt="03 Contact"/>
+### Get in touch
 
-<div align="center">
+I'm open to applied AI engineering roles and internships in the UK.
 
-<b>Open to applied AI engineering roles and internships in the UK.</b>
+[Email](mailto:ankouanepierre@gmail.com) &nbsp;·&nbsp; [Portfolio](https://pierreankouane.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/pierreemmanuelgerard) &nbsp;·&nbsp; [Afryx Labs](https://www.afryxlabs.com)
 
-<br/><br/>
+<br/>
 
-<a href="mailto:ankouanepierre@gmail.com"><img src="https://img.shields.io/badge/email-070707?style=for-the-badge&logo=gmail&logoColor=f5c518" alt="Email"/></a>&nbsp;
-<a href="https://pierreankouane.dev"><img src="https://img.shields.io/badge/portfolio-070707?style=for-the-badge&logo=googlechrome&logoColor=f5c518" alt="Portfolio"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/pierreemmanuelgerard"><img src="https://img.shields.io/badge/linkedin-070707?style=for-the-badge&logo=linkedin&logoColor=f5c518" alt="LinkedIn"/></a>&nbsp;
-<a href="https://www.afryxlabs.com"><img src="https://img.shields.io/badge/afryx_labs-070707?style=for-the-badge&logo=vercel&logoColor=f5c518" alt="Afryx Labs"/></a>
-
-<br/><br/>
-
-<img src="assets/footer.svg" width="100%" alt="Fewer things, done properly."/>
-
-</div>
+<sub>Fewer things, done properly.</sub>
