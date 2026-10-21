@@ -14,7 +14,7 @@ I work at the **applied layer of AI**: agent orchestration, tool use, memory and
 
 <p align="center"><a href="https://www.kampusafryx.com"><img src="assets/cards/kampus.svg" width="49%" alt="Kampus: institution management platform, in production"/></a>&nbsp;<img src="assets/cards/sitedue.svg" width="49%" alt="SiteDue: billing-completion app for UK electrical maintenance SMEs, in build"/></p>
 
-<p align="center"><img src="assets/cards/triage.svg" width="49%" alt="Clinical AI Triage: clinician-led screening prototype"/>&nbsp;<a href="https://github.com/ByEmG/pierre-agent-evals"><img src="assets/cards/evals.svg" width="49%" alt="pierre-agent-evals: evaluation harness for LLM agents"/></a></p>
+<p align="center"><a href="https://menoclinic.uk"><img src="assets/cards/menoclinic.svg" width="49%" alt="MenoClinic: clinician-led AI triage prototype"/></a>&nbsp;<a href="https://github.com/ByEmG/pierre-agent-evals"><img src="assets/cards/evals.svg" width="49%" alt="pierre-agent-evals: evaluation harness for LLM agents"/></a></p>
 
 <br/>
 
