@@ -342,10 +342,6 @@ CARDS = [
          tag="Institution management, end to end.",
          desc="Admissions, academics, finance and communication with an AI operations layer. Live with fee-paying schools on a multi-tenant Postgres backend. Co-developed by Afryx Labs.",
          chips=["Next.js", "Supabase", "Expo", "LangGraph"], link=True, motif="grid"),
-    dict(slug="arcflow", status="LIVE", col=GOLD, title="Arcflow",
-         tag="An AI Chief of Staff for growing teams.",
-         desc="One wedge, executed relentlessly: action tracking and accountability. A LangGraph multi-agent pipeline on a multi-tenant backend, shipped solo.",
-         chips=["LangGraph", "Supabase", "Stripe", "Vercel"], link=True, motif="rings"),
     dict(slug="sitedue", status="IN BUILD", col=BLUE, title="SiteDue",
          tag="Finished jobs that actually get billed.",
          desc="A billing-completion web app for UK commercial electrical maintenance SMEs. I lead product and architecture across a five-person build team.",
@@ -354,14 +350,10 @@ CARDS = [
          tag="AI that drafts. The clinician decides.",
          desc="A screening assistant for a UK women's health clinic: structured summaries, red-flag checks and missing-information prompts, evaluated on clinician-approved synthetic cases.",
          chips=["Human-in-the-loop", "Evals", "Synthetic data"], link=False, motif="pulse"),
-    dict(slug="opep", status="IN DEV", col=ORANGE, title="O'pep",
-         tag="Interurban bus travel, rebuilt for Cameroon.",
-         desc="Search agencies, compare, pick your seat live and pay by Mobile Money. Two-sided: a traveller app plus free ticketing software for agencies.",
-         chips=["Expo", "React", "Vite", "Supabase"], link=False, motif="route"),
-    dict(slug="miyora", status="IN DEV", col=VIOLET, title="Miyora AI",
-         tag="Skin intelligence with a consultant's care.",
-         desc="Making an AI skincare recommendation feel as considered as a professional consultation, from image to routine.",
-         chips=["Claude API", "React Native", "Computer vision"], link=False, motif="orbit"),
+    dict(slug="evals", status="OPEN RESEARCH", col=GOLD, title="pierre-agent-evals",
+         tag="Measuring how agents fail.",
+         desc="An evaluation harness for LLM agents. Every failure is classified against a six-category taxonomy, with pass rate, cost and latency reported per run.",
+         chips=["Python", "Anthropic API", "pytest"], link=True, motif="rings"),
 ]
 
 
@@ -580,17 +572,11 @@ def footer():
 
 if __name__ == "__main__":
     hero()
-    for args in [("now", "01", "Now", "OCT 2026"), ("work", "02", "Selected work", "WHAT I'M SHIPPING"),
-                 ("research", "03", "Open research", "EVALUATION"), ("principles", "04", "How I build", "PRINCIPLES"),
-                 ("stack", "05", "Stack", "TOOLS I REACH FOR"), ("path", "06", "Path", "2021 TO NOW"),
-                 ("contact", "07", "Contact", "LET'S BUILD")]:
+    for args in [("work", "01", "Building", "OCT 2026"), ("stack", "02", "Stack", "TOOLS I REACH FOR"),
+                 ("contact", "03", "Contact", "LET'S BUILD")]:
         section(*args)
-    now_panel()
     for c in CARDS:
         card(c)
-    evals_card()
-    principles()
     stack()
-    timeline()
     footer()
     print("ok")
