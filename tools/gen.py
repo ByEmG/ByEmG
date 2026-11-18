@@ -15,16 +15,16 @@ FONTS = os.path.join(HERE, "fonts")
 OUT = os.path.join(os.path.dirname(HERE), "assets", "header.svg")
 
 # ---------------- TEXT ----------------
-ROLE = "APPLIED AI ENGINEER"
+ROLE = "CLIENT-FACING APPLIED AI ENGINEER"
 PLACE = "LEEDS, UNITED KINGDOM"
 NAME_1 = "Pierre Emmanuel"
 NAME_2 = "Gérard"
-LEDE = ["I build AI products end to end,",
-        "from the agent logic to the",
-        "interface people use every day."]
-FACTS = [("NOW", "Founder & CTO, Afryx Labs"),
+LEDE = ["I turn client workflows into",
+        "software requirements, and work with",
+        "engineering teams to deliver them."]
+FACTS = [("NOW", "Founder and Technical Lead"),
          ("STUDYING", "BSc Applied AI, Bradford"),
-         ("OPEN TO", "Applied AI roles in the UK")]
+         ("OPEN TO", "Graduate roles in the UK, May 2027")]
 
 # ---------------- COLOURS ----------------
 PAPER = "#F3F0E8"

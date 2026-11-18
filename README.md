@@ -1,15 +1,15 @@
-<img src="assets/header.svg" width="100%" alt="Pierre Emmanuel Gérard. Applied AI engineer in Leeds. Founder and CTO of Afryx Labs, studying BSc Applied AI at Bradford, open to applied AI roles in the UK."/>
+<img src="assets/header.svg" width="100%" alt="Pierre Emmanuel Gérard. Client-facing applied AI engineer in Leeds. Founder and Technical Lead of Afryx Labs, studying BSc Applied AI at Bradford, open to UK graduate roles from May 2027."/>
 
 <br/>
 
-I'm Pierre, an applied AI engineer and the founder & CTO of [Afryx Labs](https://www.afryxlabs.com). Most of my work sits where models meet real users: agent workflows, evaluation, and the product around them. I'm in my final year of a BSc in Applied AI at the University of Bradford.
+I'm Pierre, a client-facing applied AI engineer and the founder and technical lead of [Afryx Labs](https://www.afryxlabs.com). I turn client workflows into software requirements, design solutions, and work with engineering teams to deliver them. I'm in my final year of a BSc in Applied AI at the University of Bradford.
 
 <br/>
 
 ### What I'm working on
 
 **[Kampus](https://www.kampusafryx.com)**<br/>
-A school management platform covering admissions, academics, finance and communication, with an AI operations layer. Live with fee-paying schools. Co-developed by Afryx Labs.<br/>
+One mobile-first platform combining school management and online learning for Fang Institute, built jointly by Afryx Labs and Kaeyros Analytics. I lead requirements and delivery for the engagement, with a target go-live in mid-February 2027.<br/>
 <sub>Next.js · Supabase · Expo · LangGraph</sub>
 
 **SiteDue**<br/>
@@ -21,7 +21,7 @@ A clinician-led AI triage prototype for a UK menopause clinic. It turns pre-cons
 <sub>Human-in-the-loop · Evaluation · Synthetic data</sub>
 
 **[pierre-agent-evals](https://github.com/ByEmG/pierre-agent-evals)**<br/>
-An evaluation harness for LLM agents. It sorts every failure into one of six categories and reports pass rate, cost and latency, so I can tell whether a change actually helped.<br/>
+An evaluation harness for LLM agents. It sorts every failure into one of six categories and reports pass rate, cost and latency. In an initial eight-case experiment, cutting the step budget from 10 to 3 took passes from 8/8 to 5/8, and every failed run stopped too early.<br/>
 <sub>Python · Anthropic API · pytest</sub>
 
 <br/>
@@ -34,7 +34,7 @@ Python, TypeScript and SQL. The Claude API and LangGraph for agents. Next.js, Re
 
 ### Get in touch
 
-I'm open to applied AI engineering roles and internships in the UK.
+I'm looking for UK graduate Solutions Engineer and Implementation Engineer roles from May 2027.
 
 [Email](mailto:ankouanepierre@gmail.com) &nbsp;·&nbsp; [Portfolio](https://pierreankouane.dev) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/pierreemmanuelgerard) &nbsp;·&nbsp; [Afryx Labs](https://www.afryxlabs.com)
 
